@@ -2,9 +2,15 @@
 This repository provides a seamless integration of the ChatGPT API with a Spring Boot application, implemented in Java. ChatGPT, powered by OpenAI's state-of-the-art language model, enables natural language understanding and generation, making it ideal for various conversational applications.
 
 Features:
-ChatGPT Integration: Easily integrate the ChatGPT API into your Spring Boot application to leverage advanced natural language processing capabilities.  
-Customizable Configuration: Configure the integration according to your project requirements, including response generation parameters and interaction logic.
-Spring Boot Implementation: Built using Spring Boot, a popular Java framework, ensuring robustness, scalability, and ease of development.
+
+ChatGPT Integration: 
+Easily integrate the ChatGPT API into your Spring Boot application to leverage advanced natural language processing capabilities.  
+
+Customizable Configuration: 
+Configure the integration according to your project requirements, including response generation parameters and interaction logic.
+
+Spring Boot Implementation:
+Built using Spring Boot, a popular Java framework, ensuring robustness, scalability, and ease of development.
 
 Example Usage: Explore example usage scenarios and code snippets to kickstart your development process.
 
